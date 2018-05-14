@@ -5,4 +5,32 @@ body {
 
 .flatiron_background {
   background-image: url(../images/the-flatiron-building.png);
+  color: white;
+}
+
+.flatiron_background > a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 1.8;
+}
+
+.footer {
+  color: white;
+  text-align: left;
+  background-color: dimgray;
+  }
+
+p > a {
+  color: white;
+  font-size: 14px;
+}
+
+.footer > p {
+  font-size: 11px;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
 }
